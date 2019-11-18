@@ -9,9 +9,9 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <link rel="stylesheet" href="css/form.css" >
+        <?php include 'submit_form.php' ?>
     </head>
     <body>
-        <div class="imagebg"></div>
 <div class="row " style="margin-top: 50px">
     <div class="col-md-6 col-md-offset-3 form-container">
         <h2>Feedback</h2>

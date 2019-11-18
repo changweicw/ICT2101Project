@@ -1,13 +1,14 @@
 
 body {
 	background-color: #000;
+        background-image: url(../images/thanos.jpg);
 }
 html,
 body {
 	height: 100%;
 }
 .imagebg {
-	background-image: url(../images/thanos.jpg);
+	
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
